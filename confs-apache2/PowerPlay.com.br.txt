@@ -1,0 +1,11 @@
+<VirtualHost *:80>
+
+    ServerName PowerPlay.com.br
+
+    ServerAdmin pedro.edi@escolar.ifrn.edu.br
+    DocumentRoot /var/www/PowerPlay.com.br/
+
+    ErrorLog ${APACHE_LOG_DIR}/PowerPlay.com.br/error.log
+    CustomLog ${APACHE_LOG_DIR}/PowerPlay.com.br/access.log combined
+
+</VirtualHost>
