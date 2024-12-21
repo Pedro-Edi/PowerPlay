@@ -1,0 +1,5 @@
+192.168.100.100 - - [17/Dec/2024:11:42:06 -0300] "GET /favicon.ico HTTP/1.1" 404 498 "http://powerapi.backend.biz/" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+192.168.100.100 - - [18/Dec/2024:13:21:04 -0300] "GET / HTTP/1.1" 200 336 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+192.168.100.100 - - [18/Dec/2024:13:21:07 -0300] "GET /favicon.ico HTTP/1.1" 404 498 "http://powerapi.backend.biz/" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+192.168.100.100 - - [18/Dec/2024:17:10:59 -0300] "GET / HTTP/1.1" 200 699 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+192.168.100.100 - - [18/Dec/2024:17:11:01 -0300] "GET /favicon.ico HTTP/1.1" 404 499 "http://powerapi.backend.biz/" "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
